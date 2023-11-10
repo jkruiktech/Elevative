@@ -1,5 +1,13 @@
-body{
+:body{
     margin: 0;
-    background:darkblue;
+    background: darkslategray;
     text-align: center;
+    /* font-family: ; */
 }
+
+/* .palette{
+    --EVblue: #23395b;
+    --EVorange: #df9a57;
+} */
+
+/* class=client-button */
